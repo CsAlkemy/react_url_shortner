@@ -1,4 +1,4 @@
-# Getting Started with Create React App with Tailwind CSS
+# Small URL shortner for ready to go..
 
 ## Available Scripts
  
